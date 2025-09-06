@@ -30,3 +30,49 @@
 
     -> import is a keyword --> imports module --> module is a .py file
 
+  -> Identifiers
+       
+       -> Within python an Identifier is name used to identify following
+
+          -> Variables 
+          -> functuions
+          -> Classes
+          -> Objects
+          -> methods
+          -> modules 
+          -> etc 
+           
+        -> rules for naming Identifiers
+
+            -> can contain 
+
+               -> letters (a-zm, A-Z)
+               -> sdigits (0-9)
+               -> underscore(_)
+
+               
+            -> String : A sequence of characters declared between '' or " "
+            -> NOTE : Python doesn't support single character data type
+        
+        -> Boolean Type:
+
+            -> Returns True or False 
+        
+        -> Sequence Types 
+
+            -> String is also a sequence type
+            -> List : Multiple Values to be stored as a sequence, represented in [] -> Mutable (Changeable)
+            -> Tuple : Multiple Values to be stored as a sequence, represented in () -> Immutable (Not Changeable)
+        
+        -> Set Type
+
+            -> Set : Multiple Values to be stored as a sequence, represented in {} -> Unique Data Only
+            -> Frozen Set : Multiple Values to be stored as a sequence, represented in {} -> Unique Data Only & Immutable
+
+        -> Dictionary(Mapping) Type
+
+            -> Dictionary : Multiple Values to be stored as a sequence of key and value pairs, , represented in {}
+
+        -> None Type : Represents nothing i.e absence of value
+
+        -> NOTE : All the above are predefined data types, we can create our custom data types based on requirements  

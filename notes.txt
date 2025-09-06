@@ -237,7 +237,7 @@
         -> NOTE : All the above are predefined data types, we can create our custom data types based on requirements  
 
 
-3rd Sep 2025
+
 ============
 
 -> Student Management System
@@ -256,7 +256,7 @@
             -> float() -> converts to float --> int(3) - 3.0
             -> str() -> converts to string --> str(100) - "100"
 
-4th Sep 2025
+
 ============
 
     -> Control Structures / Statement

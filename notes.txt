@@ -1,0 +1,32 @@
+-> write Python code
+
+   -> script mode (100%)
+     
+     -> using code editor
+      
+   -> Command line / Interactive mode(Quick checks)
+
+      -> Directly executing code on python Interpretort  using 
+          CLI (Command line interface)
+
+    -> Syntax - rule and guidlines
+
+    -> print (hello world) -- issue 
+    -> print (9)
+
+    -> 9 is literal number , it doesn't need to be defined before hand 
+    -> hello world is a text, which needs to be represented in wsingle or
+     double quotes
+
+       -> print (hello world) wrong syntex 
+       -> print ("hello world") correct syntex  
+    
+    -> Like English has 26 alphabets, which is basis for forming 
+        words and sentences
+    
+    -> Python has same concept, which are called as Keywords
+
+        -> keywords + syntax = program / app
+
+    -> import is a keyword --> imports module --> module is a .py file
+
